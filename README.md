@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhijeetChawla
+- 👋 Hi, I’m Abhijeet
 - 👀 I’m interested in Front end web development
 - 🌱 I’m currently learning Reactjs and Nodejs
 - 💞️ I’m looking to collaborate on react and Nodejs
